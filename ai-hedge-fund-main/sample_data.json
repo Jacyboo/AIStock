@@ -1,0 +1,67 @@
+{
+    "prices": [
+        {
+            "time": "2024-01-01",
+            "open": 100.0,
+            "close": 101.0,
+            "high": 102.0,
+            "low": 99.0,
+            "volume": 1000000
+        },
+        {
+            "time": "2024-01-02",
+            "open": 101.0,
+            "close": 102.5,
+            "high": 103.0,
+            "low": 100.5,
+            "volume": 1200000
+        },
+        {
+            "time": "2024-01-03",
+            "open": 102.5,
+            "close": 103.8,
+            "high": 104.0,
+            "low": 102.0,
+            "volume": 1100000
+        }
+    ],
+    "financial_metrics": {
+        "return_on_equity": 0.25,
+        "net_margin": 0.22,
+        "operating_margin": 0.18,
+        "revenue_growth": 0.15,
+        "earnings_growth": 0.12,
+        "book_value_growth": 0.08,
+        "current_ratio": 2.0,
+        "debt_to_equity": 0.4,
+        "free_cash_flow_per_share": 3.5,
+        "earnings_per_share": 4.2,
+        "price_to_earnings_ratio": 22.5,
+        "price_to_book_ratio": 2.8,
+        "price_to_sales_ratio": 4.5
+    },
+    "insider_trades": [
+        {
+            "transaction_shares": 1000,
+            "transaction_type": "buy",
+            "filing_date": "2024-01-01",
+            "insider_name": "John Doe",
+            "position": "Director"
+        },
+        {
+            "transaction_shares": -500,
+            "transaction_type": "sell",
+            "filing_date": "2024-01-02",
+            "insider_name": "Jane Smith",
+            "position": "CFO"
+        }
+    ],
+    "market_cap": 50000000000,
+    "financial_line_items": [
+        {
+            "free_cash_flow": 1500000000,
+            "period": "ttm",
+            "report_date": "2024-01-01"
+        }
+    ]
+} 
